@@ -1,5 +1,0 @@
-{
-    "mongoPath" : "mongodb://localhost:27017/tk-hotgirls",
-    "sessionSecrect" : "MNMNM",
-    "secureCookie" : false
-}
